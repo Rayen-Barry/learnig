@@ -1,2 +1,2 @@
-# learnig
+# learning
 learning web development 
